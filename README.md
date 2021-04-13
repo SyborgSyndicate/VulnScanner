@@ -1,4 +1,5 @@
 # VulnScanner
+Scan for website vulnerabilities
 
 # Installation
 - pkg upgrade && pkg update
